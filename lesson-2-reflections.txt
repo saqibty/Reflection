@@ -1,0 +1,25 @@
+What happens when you initialize a repository? Why do you need to do it?
+-after i intialize a repository using command 'git init' the hidden folder .git was created.
+-because we needed to create repository for version control, commits and changes we made.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+-In staging area there are files that are or can be commited we can track the changes of files in staging area.It is an intermediate 
+How can you use the staging area to make sure you have one commit per logical
+change?
+-we add modified files to the staging area and then commit them 
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+when we want to make different version of game beta or easy mode. Branches help in organization.
+
+How do the diagrams help you visualize the branch structure?
+diagrams are easy understandable
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+it goes into one branch. we represent it in a diagram to understand
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+automatic merging is quick but not intelligent

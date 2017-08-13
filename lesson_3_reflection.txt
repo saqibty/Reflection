@@ -2,3 +2,5 @@ When would you want to use a remote repository rather than keeping all your work
 when there is a larger project and many developers from remote locations
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 when one contributor makes change on remote repository it doesnt affect local repository of another contributor
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+if we have to copy a repository from one github account to another we fork it.if we have to copy a repository to local computer we have to use clone, Branches of  repository are copied.

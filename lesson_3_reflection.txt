@@ -4,3 +4,5 @@ Why might you want to always pull changes manually rather than having Git automa
 when one contributor makes change on remote repository it doesnt affect local repository of another contributor
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 if we have to copy a repository from one github account to another we fork it.if we have to copy a repository to local computer we have to use clone, Branches of  repository are copied.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+to remain updated on changes

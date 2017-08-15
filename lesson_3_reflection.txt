@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 if we have to copy a repository from one github account to another we fork it.if we have to copy a repository to local computer we have to use clone, Branches of  repository are copied.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 to remain updated on changes
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Through emails,
